@@ -12,15 +12,7 @@
 	Authors:    
 		Peter Nabiswa
 		Timothy Bassler
-	Course:
-		Fall 2015
-		CSCI 220
-		Programming Languages
-	Assingment:
-		Battleship (Python)
-	Due Date:
-		Preliminary: Fri 09/25/15
-		Final:       Fri 10/02/15
+	
 	Project Description:
 		This program will run a console-based version of the board game
 		battleship.  The user will play against the computer, having the
